@@ -2,7 +2,6 @@
 
 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC)  
 💻 Desenvolvedor Back-End e Entusiasta de Desenvolvimento de Jogos  
-🚀 Buscando oportunidades de estágio para aplicar e expandir meus conhecimentos
 
 ## 🛠️ Habilidades Técnicas
 
