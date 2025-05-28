@@ -1,5 +1,9 @@
 ## Olá, sou Damião Gomes👋
 
+
+- 🔭 Atualmente sou estudante de ciencia da computacao na Faculdade Federal do Ceara (UFC)
+- 🌱 Atualmente estou aprendendo back-end (Node.js com TypeScript usando Express & Java com Sprig Boot). Além de desenvolvimento de jogos com Unity(C#) e Godot
+- 📫 Como entrar em contato comigo: damiao28.contato@gmail.com
 <!--
 **dam1aoGomes/dam1aoGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
