@@ -52,3 +52,5 @@
 [![Gmail](https://img.shields.io/badge/-damiao28.contato@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damiao28.contato@gmail.com)
 [![YouTube](https://img.shields.io/badge/-@menosdam-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@menosdam)
 <a href="https://www.linkedin.com/in/damiao-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/dam1aoGomes/dam1aoGomes/blob/output/github-contribution-grid-snake.svg)
