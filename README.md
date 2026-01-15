@@ -31,13 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dam1aoGomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Damião" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam1aoGomes&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
 ## 🌱 Currently Learning
 
 - Improving my knowledge in **Software Architecture** and **Design Patterns**
@@ -47,6 +40,14 @@
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/-damiao28.contato@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:damiao28.contato@gmail.com)
-[![YouTube](https://img.shields.io/badge/-@menosdam-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@menosdam)
-<a href="https://www.linkedin.com/in/damiao-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="left">
+  <a href="mailto:damiao28.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/damiao-gomes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@menosdam" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
