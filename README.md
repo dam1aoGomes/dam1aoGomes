@@ -38,7 +38,7 @@
 - Deepening my skills in **Unity** for 2D/3D game development
 - Studying **Algorithms and Data Structures** for competitive programming
 
-<img src="https://leetcode-badge-showcase.vercel.app{damiaoG}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/damiaoG" alt="LeetCode Badges" />
 
 ## 📫 How to reach me
 
