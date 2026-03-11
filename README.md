@@ -38,7 +38,9 @@
 - Deepening my skills in **Unity** for 2D/3D game development
 - Studying **Algorithms and Data Structures** for competitive programming
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=damiaoG&animated=true)
+<img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=dam1aoGomes&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
+
+🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/damiaoG)
 
 ## 📫 How to reach me
 
